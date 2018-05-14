@@ -3,7 +3,7 @@ try to write ReadME
 
 how to add title
 ---
- add '-'s under second titles or '='s under first titles
+ add '-'s under second titles or '='s under first titles  
  what's more '=' & '-' thus can be used for drawing a line
  
 # titles
